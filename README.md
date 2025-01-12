@@ -16,7 +16,7 @@ You can install the package using npm or yarn:
 
 ```bash
 
-"use client"; ## This  code use for only next.js
+
 
 import { useState, useEffect } from "react";
 
